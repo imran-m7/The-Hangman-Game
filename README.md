@@ -22,8 +22,8 @@ C#, JavaScript and Python.
 ## Instructions for running the project
 1. Verify you have Visual Studio or Visual Studio Code installed
 2. Download all required files from the repository for the all three languages:
-C#- hangman.cs
-JavaScript- hangman.js
-Python- hangman.py
+   C#- hangman.cs
+   JavaScript- hangman.js
+   Python- hangman.py
 3. Open the project in Visual Studio or Visual Studio Code and run it through console
 4. Enjoy the game
