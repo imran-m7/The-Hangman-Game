@@ -1,5 +1,4 @@
 # The-Hangman-Game
-Students: Imran Mujkanović, Adna Ramović and Davud Mahmutović.
 
 ## Description
 The Hangman Game is widely known word-guessing game that can be played alone or with a group of people. Because of its popularity during years, need for making it as a software playable application was growing bigger. In this project, a group of three students decided to make their single player version of this game on three different programming languages: C#, JavaScript and Python. Every language provides the same gameplay experience, with different interface styles and features. The idea of this project is that a player guesses one letter per move (or a whole hidden word), until he/she successfully reveals the hidden word. For every incorrect guess, either with letter or a full word, one Hangman figure part is being added to that player. The game finishes when all parts of the figure have been drawn or the player guessed the hidden word correctly. All parts of the figure will consist of six parts (head, stomach, left and right arm, left and right leg), which will be drawn respectively.
